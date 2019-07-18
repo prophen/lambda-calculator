@@ -1,10 +1,12 @@
 import React from "react";
 
 const Display = () => {
-  return 
+  return (
   
-  <div>{/* Display any props data here */}
+  <div>
+    0
   
-  </div>;
-
+  </div>
+)
 };
+export default Display
